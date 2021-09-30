@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "91875856266",
+    "project_id": "fir-a5d8c",
+    "storage_bucket": "fir-a5d8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91875856266:android:d5a3798052fbb90144c273",
+        "android_client_info": {
+          "package_name": "com.example.firebaseyoutube"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91875856266-1d6i0eq47p049gav5acqlfvfu73aatcq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKdI8TC9eJMzAsR7EvGsdEresDuP2_tDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91875856266-1d6i0eq47p049gav5acqlfvfu73aatcq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
